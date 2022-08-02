@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "name": "eureka-service",
+      "path": "eureka-service"
+    },
+    {
+      "name": "zuul-service",
+      "path": "zuul-service"
+    },
+    {
+      "name": "colegio-ms",
+      "path": "colegio-ms"
+    },
+
+    {
+      "name": "alunos-ms",
+      "path": "alunos-ms"
+    }
+  ],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "interactive"
+  }
+}
