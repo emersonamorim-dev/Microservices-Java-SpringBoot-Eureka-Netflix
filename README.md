@@ -18,16 +18,16 @@ Instruções passo a passo sobre como configurar o ambiente de desenvolvimento e
 
 git clone [URL do seu repositório]
 
-cd [nome-do-seu-projeto]
-mvn install
+- cd [nome-do-seu-projeto]
+- mvn install
 
 Executando os Serviços
 Instruções para executar os serviços individualmente.
 
 ### Inicie o Eureka Server
 
-cd eureka-service
-mvn spring-boot:run
+- cd eureka-service
+- mvn spring-boot:run
 
 
 ### Autor:
